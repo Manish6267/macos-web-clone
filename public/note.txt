@@ -1,0 +1,19 @@
+# Manish Kumar - Notes
+
+## About Me
+I am a web developer focused on building modern, responsive web applications.
+I am currently improving my React skills through hands-on projects.
+
+## Current Projects
+- eSouk Marketplace
+- Productivity Dashboard
+- LV Website Clone
+- MacOS-style Portfolio UI
+
+## Contact
+- Email: manishkumar032004@gmail.com
+- GitHub: https://github.com/Manish6267
+- LinkedIn: https://www.linkedin.com/in/manish-kumar-a3216a37a
+
+## Goal
+Become a strong full-stack developer and build scalable web products.

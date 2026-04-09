@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "image": "",
+    "title": "eSouk Marketplace",
+    "description": "A web-based marketplace for BIT Mesra students to buy and sell items like books, electronics, and academic projects within the campus community.",
+    "tags": ["Marketplace", "Campus Project", "Student Community"],
+    "repoLink": "https://github.com/Manish6267/esouk-marketplace",
+    "demoLink": ""
+  },
+  {
+    "id": 2,
+    "image": "",
+    "title": "Productivity Dashboard",
+    "description": "A modern and responsive productivity dashboard with real-time date & time, weather information, theme switching, to-do tools, daily planner, motivation section, and Pomodoro timer.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/Manish6267/productivity-dashboard",
+    "demoLink": "https://manish6267.github.io/productivity-dashboard/"
+  },
+  {
+    "id": 3,
+    "image": "",
+    "title": "LV Website Clone",
+    "description": "A Louis Vuitton inspired website clone project built as a frontend UI practice project.",
+    "tags": ["HTML", "CSS", "UI Clone"],
+    "repoLink": "https://github.com/Manish6267/lv-clone",
+    "demoLink": ""
+  }
+]
