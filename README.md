@@ -1,16 +1,112 @@
-# React + Vite
+# 💻 MacOS Web Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **macOS-inspired desktop UI** built using **React + Vite**.
+This project recreates the look and feel of a Mac desktop directly in the browser.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://Manish6267.github.io/macos-web-clone
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🖥️ macOS-like desktop interface
+* 📂 Draggable windows
+* 🎯 App dock with icons
+* 🔗 Quick access links
+* 📅 Calendar & utilities
+* 🎨 Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 SCSS
+* 📦 JavaScript
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ │   ├── Windows/
+ │   │   ├── Github.jsx
+ │   │   ├── Links.jsx
+ │   │   ├── Note.jsx
+ │   │   ├── Resume.jsx
+ │   │   └── Spotify.jsx
+ │   ├── MacWindow.jsx
+ │   ├── Dock.jsx
+ │   └── Navbar.jsx
+ ├── assets/
+ │   └── github.json
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/Manish6267/macos-web-clone.git
+
+# Go into the project folder
+cd macos-web-clone
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+```bash
+npm run deploy
+```
+
+---
+
+## 💡 Future Improvements
+
+* 🔥 Window drag & resize improvements
+* 🌙 Dark/Light mode
+* 🎵 Functional music player
+* 🧠 Terminal simulation
+* 📱 Fully responsive design
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by **Manish Kumar**
+
+* GitHub: https://github.com/Manish6267
+* LinkedIn: (add your link)
